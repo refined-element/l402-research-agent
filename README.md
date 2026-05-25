@@ -1,6 +1,6 @@
 # l402-research-agent
 
-**An AI agent bought its own research data over the Lightning Network and wrote a fully-cited markets paper — for 20 sats (~US$0.01), with no API keys and no accounts.**
+This repo shows an AI agent discovering, purchasing, and using real market data over L402, per call, with no API keys, no accounts, and no human payment step. **Total cost: 20 sats.**
 
 ![paid for raw data over L402, built the chart from it](charts/proof-panel-DEXJPUS.png)
 

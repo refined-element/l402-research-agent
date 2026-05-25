@@ -1,0 +1,26 @@
+[
+ {
+  "series": "DEXJPUS",
+  "sats": 5,
+  "paid": true,
+  "protocol": "L402"
+ },
+ {
+  "series": "NIKKEI225",
+  "sats": 5,
+  "paid": true,
+  "protocol": "L402"
+ },
+ {
+  "series": "VIXCLS",
+  "sats": 5,
+  "paid": true,
+  "protocol": "L402"
+ },
+ {
+  "series": "DGS10",
+  "sats": 5,
+  "paid": true,
+  "protocol": "L402"
+ }
+]

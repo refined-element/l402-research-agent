@@ -1,5 +1,8 @@
 # l402-research-agent
 
+[![Discord](https://img.shields.io/discord/1405389254892195951?label=community&logo=discord&color=5865F2)](https://discord.gg/rX7NxHY8vx)
+
+
 This repo shows an AI agent discovering, purchasing, and using real market data over L402, per call, with no API keys, no accounts, and no human payment step. **Total cost: 20 sats.**
 
 ![paid for raw data over L402, built the chart from it](charts/proof-panel-DEXJPUS.png)
